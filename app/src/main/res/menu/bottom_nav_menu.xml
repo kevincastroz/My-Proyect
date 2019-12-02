@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Eventos" />
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_star"
+        android:title="Eventos Suscritos" />
+
+    <item
+        android:id="@+id/creados"
+        android:icon="@drawable/ic_event_note"
+        android:title="Eventos Creados" />
+
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/ic_account_circle"
+        android:title="Perfil" />
+
+</menu>

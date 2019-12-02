@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CreandoEventos</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="editText_usuario">Usuario</string>
+    <string name="editText_contraseña">Contraseña</string>
+    <string name="editText_nombre">Nombre</string>
+    <string name="editText_apellidos">Apellidos</string>
+    <string name="editText_usuario_registro">Usuario</string>
+    <string name="editText_edad">Edad</string>
+    <string name="radio_masculino">Masculino</string>
+    <string name="radio_femenino">Femenino</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="crear_nombre">Nombre del Evento</string>
+    <string name="crear_organizador">Organizador del Evento</string>
+    <string name="crear_lugar">Lugar del Evento</string>
+    <string name="crear_hora">Hora del Evento</string>
+    <string name="crear_fecha">Fecha del Evento</string>
+    <string name="crear_contacto">Contactos del Evento</string>
+    <string name="btn_crearevent">Crear Evento</string>
+</resources>

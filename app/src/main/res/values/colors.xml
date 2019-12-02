@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0072BB</color>
+    <color name="colorPrimaryDark">#10017E</color>
+    <color name="colorAccent">#0071BB</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="barra">#0072BB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteTrans">#eeeeee</color>
+    <color name="button">#0072BB</color>
+    <color name="txt_btn">#FFFFFF</color>
+    <color name="txt_registro">#0072BB</color>
+    <color name="txt_name">#10017E</color>
+</resources>
